@@ -1,4 +1,4 @@
-1, git clone $ git clone https://github.com/yussak/laravel-postgres-template.git {ディレクトリ名}
+1. git clone $ git clone https://github.com/yussak/laravel-postgres-template.git {ディレクトリ名}
 2. cd ディレクトリ名
 3. docker-compose up -d
 4. docker-compose exec app bash
