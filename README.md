@@ -20,3 +20,8 @@ DB_PASSWORD=secret
 ```
 2.  docker-compose exec app bash
 3.  php artisan migrate
+
+## commit pushする時
+1. git remote -vでこのリポジトリがoriginに指定されていることを確認
+2. git remote set-url origin 新しいリポジトリ名
+3. git remote -vで更新されていることを確認
