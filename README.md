@@ -6,7 +6,7 @@
 5. composer install
 6. cp .env.example .env
 7. php artisan key:generate
-8. locahost:8000にアクセスするとLaravelのトップページが表示される
+8. localhost:8000にアクセスするとLaravelのトップページが表示される
 
 ## migration
 1. .envを以下のように変える
